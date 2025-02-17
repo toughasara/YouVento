@@ -1,4 +1,5 @@
 Contexte du projet
+
 YouCode souhaite dynamiser la vie étudiante en facilitant la création et la gestion de clubs (tech, design, robotique, etc.) et d'événements associés (ateliers, conférences, hackathons). L'objectif est de fournir un outil centralisé pour les administrateurs et les étudiants, permettant de promouvoir les activités, gérer les inscriptions et encourager les collaborations.
 
 ​
